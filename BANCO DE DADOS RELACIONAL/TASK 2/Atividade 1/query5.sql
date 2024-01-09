@@ -1,0 +1,1 @@
+SELECT * FROM tb_personagens WHERE poder_de_ataque BETWEEN 1000 AND 2000;
